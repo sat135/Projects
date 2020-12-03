@@ -18,8 +18,8 @@ Features:
 * Design adjusted to the clients' website
         
 Progams used:
-        PowerBI
-        A bit of Python
+- PowerBI
+- A bit of Python
         
         
 Link: http://tiny.cc/BI-MK2025
