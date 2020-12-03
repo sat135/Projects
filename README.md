@@ -6,7 +6,7 @@ This is a list of projects that I've been working on.
 The list is meant to be updated once in a while, although I doubt it will turn into a proper full list due to forgetfullness :)
 
 ## 1. Macedonia 2025 PBi Dashboard Project
-This was a project fot the NPO Macedona 2025, a request for a sleek, informative dashboard.
+This was a project fot the NPO Macedona 2025, a request for a sleek, informative dashboard, while I was enrolled at Brainster's Data Science Academy.
 
 Features:
         Available in 34 European languages
