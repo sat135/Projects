@@ -8,13 +8,14 @@ The list is meant to be updated once in a while, although I doubt it will turn i
 ## 1. Macedonia 2025 PBi Dashboard Project
 This was a project fot the NPO Macedona 2025, a request for a sleek, informative dashboard, while I was enrolled at Brainster's Data Science Academy.
 
-Features: * Available in 34 European languages
-          * Provides Country Growth indicators for selected countries
-          * Time period: The last 10 years
-          * Easily expandable
-          * Target Evaluation
-          * Country Comparison
-          * Design adjusted to the clients' website
+Features:
+* Available in 34 European languages
+* Provides Country Growth indicators for selected countries
+* Time period: The last 10 years
+* Easily expandable
+* Target Evaluation
+* Country Comparison
+* Design adjusted to the clients' website
         
 Progams used:
         PowerBI
