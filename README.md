@@ -33,6 +33,7 @@ This model will find use in recognizing and separating the sky from the rest of 
 
 Fully writen in Python.
 
+
 Link: https://github.com/sat135/Brainster_G2_T1_Beautifai
 ---
 Feel free to contact me for any additional info.
