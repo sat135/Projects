@@ -24,6 +24,15 @@ Progams used:
         
 Link: http://tiny.cc/BI-MK2025
 
+## 2. ML Image Classification
+A robust classifier, able to detect whether an image consists of Daylight Sky, Night Sky, or No sky at all.
 
+Features:
+
+This model will find use in recognizing and separating the sky from the rest of the objects on the photo. Once a picture is taken, the application by itself will recognize if there is a sky at all, and then recognize if it is a day or night in order to identify if sky-algorithm should be offered as an option to the user to edit the sky.
+
+Fully writen in Python.
+
+Link: https://github.com/sat135/Brainster_G2_T1_Beautifai
 ---
 Feel free to contact me for any additional info.
